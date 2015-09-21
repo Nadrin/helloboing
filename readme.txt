@@ -41,6 +41,14 @@
 
    Special greetings go to Photon/Scoopex for his AsmSkool tutorials!
 
+   Portfolio link: https://siejak.pl/projects/hello-boing
+   Pouet link: http://www.pouet.net/prod.php?which=65657
+
+   Assemble with AsmOne.
+
+   You may do with the code whatever you wish but please credit me if you
+   use any of it in your own prod. :)
+
                                                     masterm 2015-05-19
                                                     <michal@siejak.pl>
                                                        www.siejak.pl
